@@ -1,3 +1,1 @@
 - 👋 Hi, I’m Chris Raible.
-- Project manager by day; full-stack developer by night. I like building data-driven applications to solve problems for people.
-- Outside of my day job, I spend most of my time building [RoutineOps](https://routineops.com)
